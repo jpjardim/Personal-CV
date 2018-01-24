@@ -1,0 +1,20 @@
+#leftColumn {
+    background-color: #3498db;
+    color: white;
+}
+
+#iconsLeftColumn {
+    font-size: 30px;
+}
+
+#textLeftColumn {
+    text-align: justify;
+}
+
+#lineLeftColumn {
+    border-top: 1px solid #2980b9;
+}
+
+#rightColumn {
+    background-color: #ecf0f1;
+}
