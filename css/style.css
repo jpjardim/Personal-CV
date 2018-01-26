@@ -3,7 +3,7 @@
     color: white;
 }
 
-#iconsLeftColumn {
+#Icons {
     font-size: 30px;
 }
 
@@ -16,5 +16,7 @@
 }
 
 #rightColumn {
-    background-color: #ecf0f1;
+    background-color: #f1f2f6;
+    padding-top: 40px;
+    color: #57606f;
 }
